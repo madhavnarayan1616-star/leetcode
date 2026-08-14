@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0075-sort-colors) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
