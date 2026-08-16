@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
