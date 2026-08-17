@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0054-spiral-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
