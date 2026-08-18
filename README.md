@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
