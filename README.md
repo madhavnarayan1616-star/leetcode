@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0048-rotate-image) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0189-rotate-array) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quicksort
