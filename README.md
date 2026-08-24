@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0344-reverse-string) |
@@ -126,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
