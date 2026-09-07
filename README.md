@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0496-next-greater-element-i) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhavnarayan1616-star/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0496-next-greater-element-i) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
