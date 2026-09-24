@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0496-next-greater-element-i) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhavnarayan1616-star/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhavnarayan1616-star/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhavnarayan1616-star/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/madhavnarayan1616-star/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/madhavnarayan1616-star/leetcode/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
