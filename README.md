@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0496-next-greater-element-i) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhavnarayan1616-star/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhavnarayan1616-star/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
