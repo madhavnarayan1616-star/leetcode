@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0283-move-zeroes) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Quicksort
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -210,10 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0229-majority-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
