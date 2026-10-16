@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhavnarayan1616-star/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -459,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
