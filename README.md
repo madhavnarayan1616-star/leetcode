@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1046-last-stone-weight) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/madhavnarayan1616-star/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
