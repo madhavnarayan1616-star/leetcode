@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhavnarayan1616-star/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/madhavnarayan1616-star/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2733-neither-minimum-nor-maximum](https://github.com/madhavnarayan1616-star/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/madhavnarayan1616-star/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhavnarayan1616-star/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhavnarayan1616-star/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/madhavnarayan1616-star/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhavnarayan1616-star/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/madhavnarayan1616-star/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
 | ------- |
