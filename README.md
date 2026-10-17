@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0506-relative-ranks) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1046-last-stone-weight) |
