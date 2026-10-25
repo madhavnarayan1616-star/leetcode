@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0506-relative-ranks) |
+| [0643-maximum-average-subarray-i](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0973-k-closest-points-to-origin](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/madhavnarayan1616-star/leetcode/tree/master/1046-last-stone-weight) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/madhavnarayan1616-star/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Union-Find
 |  |
 | ------- |
